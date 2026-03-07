@@ -1,5 +1,13 @@
 # 💫 About Me:
-"I'm currently working on deepening my expertise in orchestration and big data, with a focus on Cassandra."<br>"I'm looking to collaborate on data engineering projects and learn more about non-relational databases."<br>"I'm also a Sudoku master and a skilled chess player."<br>"Currently competent in Power BI, PostgreSQL, MySQL, MongoDB, Python, Azure, Linux, Git, and GitHub."<br>
+---
+
+- I’m a beginner data engineer currently working on deepening my expertise in orchestration, big data, and non-relational databases, with a focus on Cassandra.
+- I’m looking to collaborate on data engineering projects and learn more about scalable data pipelines and cloud platforms.
+- I have hands-on experience with Power BI, PostgreSQL, MySQL, MongoDB, Python, Azure, Linux, Git, and GitHub.
+- I’m seeking mentorship and guidance in cloud data engineering and advanced data orchestration.
+- Ask me about data engineering concepts, or my journey in the data space.
+- Outside of tech, I’m a Sudoku master, a skilled chess player, and I enjoy exploring new technologies and solving puzzles.
+
 
 
 ## 🌐 Socials:
