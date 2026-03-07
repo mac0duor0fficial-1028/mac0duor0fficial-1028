@@ -8,7 +8,7 @@
 - Ask me about data engineering concepts, or my journey in the data space.
 - Outside of tech, I’m a Sudoku master, a skilled chess player, and I enjoy exploring new technologies and solving puzzles.
 
-
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/macphalen-oduor-9211643ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mac0duor0fficial@gmail.com) 
