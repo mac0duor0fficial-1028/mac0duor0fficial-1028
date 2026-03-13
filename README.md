@@ -1,7 +1,7 @@
 # 💫 About Me:
 ---
 
-- I’m a beginner data engineer currently working on deepening my expertise in orchestration, big data, and non-relational databases, with a focus on Cassandra.
+- I’m an aspiring data engineer currently working on deepening my expertise in orchestration, big data, and non-relational databases, with a focus on Cassandra.
 - I’m looking to collaborate on data engineering projects and learn more about scalable data pipelines and cloud platforms.
 - I have hands-on experience with Power BI, PostgreSQL, MySQL, MongoDB, Python, Azure, Linux, Git, and GitHub.
 - I’m seeking mentorship and guidance in cloud data engineering and advanced data orchestration.
