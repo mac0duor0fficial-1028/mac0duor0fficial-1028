@@ -6,7 +6,7 @@
 - I have hands-on experience with Power BI, PostgreSQL, MySQL, MongoDB, Python, Azure, Linux, Git, and GitHub.
 - I’m seeking mentorship and guidance in cloud data engineering and advanced data orchestration.
 - Ask me about data engineering concepts, or my journey in the data space.
-- Also find various data concepts I've written on my [dev.to blog](https://dev.to/macphalen_oduor)
+- Also find various data concepts I've written on my [dev.to blog](https://dev.to/macphalen_oduor) and [hashnode.com](https://mac-data-articles.hashnode.dev/)
 - Outside of tech, I’m a Sudoku master, a skilled chess player, and I enjoy exploring new technologies and solving puzzles.
 
 ---
