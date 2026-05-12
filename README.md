@@ -1,5 +1,11 @@
 # 💫 About Me:
-- I’m a data engineer currently working on deepening my expertise in orchestration and big data.<br>- I’m looking to collaborate on data engineering projects and learn more about scalable data pipelines and cloud platforms.<br>- I have hands-on experience on major concepts like orchestration, data warehousing and real-time data processing.<br>- I’m seeking mentorship and guidance in cloud data engineering as well as AI integration in the same space.<br>- Ask me about data engineering concepts, or my journey in the data space via email.<br>- Also find various data concepts I've written on my [dev.to blog](https://dev.to/macphalen_oduor) and [hashnode.com](https://mac-data-articles.hashnode.dev/)<br>- Outside  tech, I’m a Sudoku master, a skilled chess player, and I enjoy exploring new technologies and solving puzzles.<br>
+- I’m a data engineer currently working on deepening my expertise in orchestration and big data.<br>
+- I’m looking to collaborate on data engineering projects and learn more about scalable data pipelines and cloud platforms.<br>
+- I have hands-on experience on major concepts like orchestration, data warehousing and real-time data processing.<br>
+- I’m seeking mentorship and guidance in cloud data engineering as well as AI integration in the same space.<br>
+- Ask me about data engineering concepts, or my journey in the data space via email.<br>
+- Also find various data concepts I've written on my [dev.to blog](https://dev.to/macphalen_oduor) and [hashnode.com](https://mac-data-articles.hashnode.dev/)<br>
+- Outside  tech, I’m a Sudoku master, a skilled chess player, and I enjoy exploring new technologies and solving puzzles.<br>
 
 
 ## 🌐 Socials:
