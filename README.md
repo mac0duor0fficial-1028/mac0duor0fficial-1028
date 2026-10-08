@@ -19,6 +19,8 @@ I'm endlessly curious about the data space and constantly exploring new concepts
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode" />
   </a>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda, notion" />
   </a>
