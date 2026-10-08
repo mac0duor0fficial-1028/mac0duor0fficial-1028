@@ -30,6 +30,8 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
