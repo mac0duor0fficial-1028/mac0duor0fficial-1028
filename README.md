@@ -15,9 +15,11 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </p>
 # 📊 GitHub Stats:
 <p align="center">
-  ![](https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    <br/>
+    <img src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
