@@ -10,7 +10,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,devto,notion,vscode" />
   </a>
 </p>
 # 📊 GitHub Stats:
