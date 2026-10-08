@@ -1,4 +1,7 @@
-# Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1 align="center">
+  Hello There!
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="wave" />
+</h1>
 I architect the heavy-duty data infrastructure that modern enterprises run on. From massive stream processing to bulletproof data governance, I engineer scalable, secure, and production-grade pipelines that turn raw data chaos into an organization's most trusted asset.
 
 I'm endlessly curious about the data space and constantly exploring new concepts, tools, and architectures. Off the keyboard, I'm a Sudoku master and a serious chess player — solving puzzles is just what I do, on and off the board.
@@ -17,7 +20,11 @@ I'm endlessly curious about the data space and constantly exploring new concepts
     <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode" />
   </a>
 </p>
-# 📊 GitHub Stats:
+
+<h1 align="center">
+  📊 GitHub Stats:
+</h1>
+
 <p align="center">
     <img src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
          alt="GitHub Stats" style="display:block; margin: 16px auto;" />
