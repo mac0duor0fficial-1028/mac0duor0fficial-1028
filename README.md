@@ -10,13 +10,15 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,devto,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,devto,notion,vscode" />
   </a>
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  ![](https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mac0duor0fficial-1028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
