@@ -14,7 +14,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode" />
   </a>
 </p>
 # 📊 GitHub Stats:
