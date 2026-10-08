@@ -26,12 +26,13 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
-         alt="GitHub Stats" style="display:block; margin: 16px auto;" />
-    <img src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false"
-         alt="GitHub Streak" style="display:block; margin: 16px auto;" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact"
-         alt="Top Languages" style="display:block; margin: 16px auto;" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /></td>
+      <td><img src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </p>
 
 ## 🏆 GitHub Trophies
