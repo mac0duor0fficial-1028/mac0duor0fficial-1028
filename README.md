@@ -35,7 +35,9 @@ I'm endlessly curious about the data space and constantly exploring new concepts
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+<h1 align="center">
+   GitHub Trophies
+</h1>
 ![](https://github-profile-trophy.vercel.app/?username=mac0duor0fficial-1028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
