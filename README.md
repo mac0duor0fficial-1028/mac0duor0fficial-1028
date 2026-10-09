@@ -22,7 +22,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </p>
 
 <h1 align="center">
-  📊 GitHub Stats:
+   GitHub Stats:
 </h1>
 
 <p align="center">
