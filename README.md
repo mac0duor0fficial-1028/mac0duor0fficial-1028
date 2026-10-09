@@ -48,8 +48,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 
 ---
 
-[![Profile views](https://komarev.com)](https://visitcount.itsvg.in)
-
 </div>
 
 
