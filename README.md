@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hello There!
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="wave" />
+  Hello There!
 </h1>
 I architect the heavy-duty data infrastructure that modern enterprises run on. From massive stream processing to bulletproof data governance, I engineer scalable, secure, and production-grade pipelines that turn raw data chaos into an organization's most trusted asset.
 
