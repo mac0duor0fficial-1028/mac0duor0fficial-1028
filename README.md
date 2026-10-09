@@ -38,12 +38,19 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 <h1 align="center">
    GitHub Trophies
 </h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=mac0duor0fficial-1028&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+<div align="center">
+
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mac0duor0fficial-1028&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Profile views](https://komarev.com)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
