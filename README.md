@@ -20,8 +20,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
     <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion," />
   </a>
 </p>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <h1 align="center">
    GitHub Stats:
