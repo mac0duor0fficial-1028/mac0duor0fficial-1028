@@ -21,6 +21,8 @@ I'm endlessly curious about the data space and constantly exploring new concepts
   </a>
 </p>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <h1 align="center">
    GitHub Stats:
 </h1>
