@@ -16,7 +16,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 
 <h2 align="center"> Tech Stack:</h2>
 
-<table align="center">
+<table align="center" width="500" height="150">
   <tr>
     <td>
       <p align="center">
