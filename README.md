@@ -49,10 +49,69 @@
   </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:e4a672,50:ff5f6d,100:ffc371&text=Hi%20there,%20I'm%20Macphalen%20👋&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20universe&descAlignY=55&descSize=18"/>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=mac0duor0fficial-1028&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/mac0duor0fficial-1028?label=FOLLOWERS&style=flat-square&color=blueviolet)
+![GitHub stars](https://img.shields.io/github/stars/mac0duor0fficial-1028?affiliations=OWNER&style=flat-square&label=STARS&color=yellow)
+
+</div>
+
+---
+
+## 💻 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mac0duor0fficial-1028">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/mac0duor0fficial-1028">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&theme=dark&hide_border=false" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mac0duor0fficial-1028&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Dev Vibes
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F7B42C&center=true&vCenter=true&width=650&lines=%22Code.+Commit.+Repeat.%22%F0%9F%92%BB;Thanks+for+visiting+%F0%9F%99%8F;Have+an+awesome+day!" alt="Typing SVG"/>
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) — layout enhanced ✨ -->
 
 
-
-          
+ <!--         
 <h1 align="center">
    GitHub Stats:
 </h1>
@@ -81,6 +140,7 @@
 ---
 
 </div>
+-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
