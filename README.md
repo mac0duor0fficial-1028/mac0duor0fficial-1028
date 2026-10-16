@@ -14,7 +14,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
   </a>
 </p>
 
-<h2 align="center" style="border-bottom: none> Tech Stack:</h2>
+<h2 align="center"  style="border-bottom: none; text-decoration: none;> Tech Stack:</h2>
 
 <table align="center">
   <tr width="2050" height="200">
