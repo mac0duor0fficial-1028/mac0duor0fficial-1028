@@ -39,6 +39,16 @@
   </picture>
 </a>
 
+<br/>
+
+<a href="https://github.com/mac0duor0fficial-1028">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&hide_border=false&border_radius=14&background=0a0a0a&border=262626&stroke=262626&ring=2dd4bf&fire=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=a1a1aa&dates=71717a">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&hide_border=false&border_radius=14&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=0d9488&fire=0d9488&currStreakNum=0a0a0a&sideNums=0a0a0a&currStreakLabel=0d9488&sideLabels=52525b&dates=71717a">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=mac0duor0fficial-1028&hide_border=false&border_radius=14&background=0a0a0a&border=262626&stroke=262626&ring=2dd4bf&fire=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=a1a1aa&dates=71717a" alt="GitHub Streak"/>
+  </picture>
+</a>
+
 </div>
 
 <br/>
