@@ -6,7 +6,7 @@ I architect the heavy-duty data infrastructure that modern enterprises run on. F
 
 I'm endlessly curious about the data space and constantly exploring new concepts, tools, and architectures. Off the keyboard, I'm a Sudoku master and a serious chess player — solving puzzles is just what I do, on and off the board.
 
-<table align="center" style="width: 100%; max-width: 600px; table-layout: fixed;">
+<table align="center" style="width: 200%; max-width: 600px; table-layout: fixed;">
   <tr>
     <th align="center" style="border-bottom: none;">Socials:</th>
   </tr>
