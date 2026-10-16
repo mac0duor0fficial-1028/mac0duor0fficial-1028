@@ -15,12 +15,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </p>
 
 <h2 align="center"> Tech Stack:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" />
-  </a>
-</p>
-
 
 <table align="center">
   <tr>
