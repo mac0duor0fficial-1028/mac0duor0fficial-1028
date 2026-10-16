@@ -21,7 +21,25 @@
 
 <div align="center"><img src="assets/h-stats.svg" width="100%" alt="GitHub stats"/></div>
 <br/>
-<div align="center"><a href="https://github.com/mac0duor0fficial-1028"><img src="assets/stats.svg" width="100%" alt="GitHub stats: stars, contributions, pull requests, issues, repositories, followers, top languages, streaks and a 26-week contribution heatmap."/></a></div>
+
+<div align="center">
+
+<a href="https://github.com/mac0duor0fficial-1028">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&show_icons=true&hide_border=false&include_all_commits=true&count_private=false&border_radius=14&bg_color=0a0a0a&border_color=262626&title_color=ffffff&text_color=a1a1aa&icon_color=2dd4bf&ring_color=2dd4bf">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&show_icons=true&hide_border=false&include_all_commits=true&count_private=false&border_radius=14&bg_color=ffffff&border_color=e4e4e7&title_color=0a0a0a&text_color=52525b&icon_color=0d9488&ring_color=0d9488">
+    <img width="49%" src="https://github-readme-stats.shion.dev/api?username=mac0duor0fficial-1028&show_icons=true&hide_border=false&include_all_commits=true&count_private=false&border_radius=14&bg_color=0a0a0a&border_color=262626&title_color=ffffff&text_color=a1a1aa&icon_color=2dd4bf&ring_color=2dd4bf" alt="GitHub Stats"/>
+  </picture>
+</a>
+<a href="https://github.com/mac0duor0fficial-1028">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&layout=compact&langs_count=6&hide_border=false&border_radius=14&bg_color=0a0a0a&border_color=262626&title_color=ffffff&text_color=a1a1aa">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&layout=compact&langs_count=6&hide_border=false&border_radius=14&bg_color=ffffff&border_color=e4e4e7&title_color=0a0a0a&text_color=52525b">
+    <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mac0duor0fficial-1028&layout=compact&langs_count=6&hide_border=false&border_radius=14&bg_color=0a0a0a&border_color=262626&title_color=ffffff&text_color=a1a1aa" alt="Top Languages"/>
+  </picture>
+</a>
+
+</div>
 
 <br/>
 
