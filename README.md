@@ -20,6 +20,12 @@ I'm endlessly curious about the data space and constantly exploring new concepts
     <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" />
   </a>
 </p>
+
+
+| Icon Skills Layout |
+| :--- |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" /></a></p> |
+
           
 <h1 align="center">
    GitHub Stats:
