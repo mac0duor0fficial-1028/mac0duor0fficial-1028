@@ -16,16 +16,19 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 
 <table align="center">
   <tr width="2050" height="200">
+    <tr>
+      <th align="center">Socials:</th>
+    </tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linkedin,gmail"  height="80" />
         </a>
     </p>
+    </td>
     <tr>
       <th align="center">Tech Stack:</th>
     </tr>
-    </td>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
