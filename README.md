@@ -14,8 +14,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
   </a>
 </p>
 
-<h2 align="center"> Tech Stack:</h2>
-
 <table align="center">
   <tr width="2050" height="200">
     <td>
@@ -24,6 +22,9 @@ I'm endlessly curious about the data space and constantly exploring new concepts
           <img src="https://skillicons.dev/icons?i=linkedin,gmail"  height="80" />
         </a>
     </p>
+    <tr>
+      <th align="center">Tech Stack:</th>
+    </tr>
     </td>
     <td>
       <p align="center">
