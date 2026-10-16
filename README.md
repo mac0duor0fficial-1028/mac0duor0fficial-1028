@@ -6,30 +6,33 @@ I architect the heavy-duty data infrastructure that modern enterprises run on. F
 
 I'm endlessly curious about the data space and constantly exploring new concepts, tools, and architectures. Off the keyboard, I'm a Sudoku master and a serious chess player — solving puzzles is just what I do, on and off the board.
 
-<table align="center">
-  <tr width="2050" height="200">
-    <tr>
-      <th align="center">Socials:</th>
-    </tr>
+<table align="center" style="width: 100%; max-width: 600px; table-layout: fixed;">
+  <tr>
+    <th align="center" style="border-bottom: none;">Socials:</th>
+  </tr>
+  <tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linkedin,gmail"  height="80" />
+          <img src="https://skillicons.dev/icons?i=linkedin,gmail" style="max-width: 100%; height: auto; max-height: 50px;" />
         </a>
-    </p>
+      </p>
     </td>
-    <tr>
-      <th align="center">Tech Stack:</th>
-    </tr>
+  </tr>
+  <tr>
+    <th align="center" style="border-bottom: none; padding-top: 20px;">Tech Stack:</th>
+  </tr>
+  <tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" height="80" />
+          <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
           
