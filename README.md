@@ -11,11 +11,38 @@
 <div align="center"><img src="assets/h-stack.svg" width="100%" alt="Tech stack"/></div>
 <br/>
 
-<div align="center">
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,kafka,aws,azure,gcp,fastapi,grafana,devto,vscode,anaconda,notion,sublime&perline=10&theme=dark" alt="Bash, Git, Docker, Python, R, PostgreSQL, MySQL, MongoDB, Cassandra, Kafka, AWS, Azure, Google Cloud, FastAPI, Grafana, DEV, VS Code, Anaconda, Notion, Sublime Text"/></a>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" title="Bash"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>
+  <br/>
+  <img src="assets/stack/airflow.svg" width="48" height="48" alt="Airflow" title="Airflow"/>&nbsp;
+  <img src="assets/stack/spark.svg" width="48" height="48" alt="Spark" title="Spark"/>&nbsp;
+  <img src="assets/stack/dbt.svg" width="48" height="48" alt="dbt" title="dbt"/>&nbsp;
+  <img src="assets/stack/snowflake.svg" width="48" height="48" alt="Snowflake" title="Snowflake"/>&nbsp;
+  <img src="assets/stack/databricks.svg" width="48" height="48" alt="Databricks" title="Databricks"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure" title="Azure"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud" title="Google Cloud"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/>&nbsp;
+  <img src="assets/stack/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" title="Grafana"/>&nbsp;
+  <img src="assets/stack/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=devto&theme=dark" width="48" height="48" alt="DEV" title="DEV"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" title="Notion"/>&nbsp;
+  <img src="assets/stack/hashnode.svg" width="48" height="48" alt="Hashnode" title="Hashnode"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>
+</p>
 
 <br/>
 
