@@ -12,6 +12,13 @@
   I engineer scalable, secure, and production-grade pipelines that turn raw data chaos into an organization's most trusted asset.
 </p>
 
+---
+
+### About Me
+
+* **Technical Focus:** Endlessly curious about the data space and constantly exploring new concepts, tools, and advanced architectures.
+* **Interests:** Off the keyboard, I am a Sudoku master and a serious chess player — solving puzzles is just what I do, on and off the board.
+
 <table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
     <th align="center" style="border-bottom: none;">Socials:</th>
