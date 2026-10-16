@@ -14,10 +14,14 @@
 
 ---
 
-### About Me
+<h2 align="center">
+  About Me
+</h2>
 
 * **Technical Focus:** Endlessly curious about the data space and constantly exploring new concepts, tools, and advanced architectures.
 * **Interests:** Off the keyboard, I am a Sudoku master and a serious chess player — solving puzzles is just what I do, on and off the board.
+
+---
 
 <table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
