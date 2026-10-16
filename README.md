@@ -22,13 +22,18 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 </p>
 
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion&perline=9" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-| Skill Icons |
-| :---: |
-| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev" /></a></p> |
-
-</div>
 
           
 <h1 align="center">
