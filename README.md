@@ -17,7 +17,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 <h2 align="center"> Tech Stack:</h2>
 
 <table align="center">
-  <tr width="500" height="150">
+  <tr width="650" height="200">
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
