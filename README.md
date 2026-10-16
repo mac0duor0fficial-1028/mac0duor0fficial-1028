@@ -19,8 +19,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -28,6 +26,9 @@ I'm endlessly curious about the data space and constantly exploring new concepts
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
+
   </tr>
 </table>
 
