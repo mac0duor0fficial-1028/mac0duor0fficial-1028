@@ -59,8 +59,8 @@
 <div align="center">
 
 <!-- Replace YOUR-LINKEDIN-USERNAME and youremail@example.com with your real details -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:youremail@example.com"><img src="assets/btn-email.svg" height="52" alt="Email me"/></a>&nbsp;&nbsp;
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/macphalen-oduor-9211643ab)"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mac0duor0fficial@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email me"/></a>&nbsp;&nbsp;
 <a href="https://github.com/mac0duor0fficial-1028"><img src="assets/btn-github.svg" height="52" alt="Follow on GitHub"/></a>
 
 </div>
