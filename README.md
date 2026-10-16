@@ -11,6 +11,9 @@ I'm endlessly curious about the data space and constantly exploring new concepts
     <th align="center" style="border-bottom: none;">Socials:</th>
   </tr>
   <tr>
+    <th align="center" style="border-bottom: none; padding-top: 20px;">Tech Stack:</th>
+  </tr>
+  <tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
@@ -18,9 +21,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <th align="center" style="border-bottom: none; padding-top: 20px;">Tech Stack:</th>
   </tr>
   <tr>
     <td>
