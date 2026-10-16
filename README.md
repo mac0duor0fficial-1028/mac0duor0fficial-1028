@@ -22,7 +22,7 @@ I'm endlessly curious about the data space and constantly exploring new concepts
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,kafka,aws,azure,fastapi,grafana,devto,vscode,anaconda,notion,sublime&perline=9" style="max-width: 100%; height: auto;" />
+          <img src="https://skillicons.dev/icons?i=bash,git,docker,py,r,postgres,mysql,mongodb,cassandra,kafka,aws,azure,gcp,fastapi,grafana,devto,vscode,anaconda,notion,sublime&perline=10" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
