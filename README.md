@@ -9,8 +9,6 @@ I'm endlessly curious about the data space and constantly exploring new concepts
 <table align="center" style="width: 100%; table-layout: fixed;">
   <tr>
     <th align="center" style="border-bottom: none;">Socials:</th>
-  </tr>
-  <tr>
     <th align="center" style="border-bottom: none; padding-top: 20px;">Tech Stack:</th>
   </tr>
   <tr>
