@@ -1,13 +1,11 @@
 <div align="center">
 
-<h3>
-  <img src="https://api.iconify.design/lucide/hand.svg?color=%232dd4bf&width=28&height=28" width="28" height="28" alt="Waving hand icon" align="center"/>
-  &nbsp;Hello there!
-</h3>
+<h2>
+  <img src="assets/wave.svg" width="32" alt="Waving hand"/>
+  Hello there!
+</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=820&height=50&lines=I+architect+heavy-duty+data+infrastructure.;From+massive+stream+processing+to+bulletproof+data+governance.;Scalable%2C+secure%2C+production-grade+pipelines.;Turning+raw+data+chaos+into+trusted+assets." alt="Typing animation: I architect heavy-duty data infrastructure"/>
-
-</div>
 
 </div>
 
