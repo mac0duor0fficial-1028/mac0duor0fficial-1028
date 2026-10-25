@@ -53,7 +53,6 @@
   <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>
   <br/>
   <img src="assets/stack/airbyte.svg" width="48" height="48" alt="Airbyte" title="Airbyte"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>&nbsp;
   <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>&nbsp;
   <img src="assets/stack/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;
   <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
