@@ -40,9 +40,9 @@
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure" title="Azure"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud" title="Google Cloud"/>&nbsp;
+  <br/>
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/>&nbsp;
   <img src="assets/stack/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>
-  <br/>
   <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" title="Grafana"/>&nbsp;
   <img src="assets/stack/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=devto&theme=dark" width="48" height="48" alt="DEV" title="DEV"/>&nbsp;
@@ -51,9 +51,16 @@
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" title="Notion"/>&nbsp;
   <img src="assets/stack/hashnode.svg" width="48" height="48" alt="Hashnode" title="Hashnode"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>
-</p>
-<p align="center">
-  <img src="assets/stack-more.svg" height="48" alt="Airbyte, Tableau, Pandas, NumPy, Scikit-learn, LangChain, Llama, Claude Code"/>
+  <br/>
+  <img src="assets/stack/airbyte.svg" width="48" height="48" alt="Airbyte" title="Airbyte"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>&nbsp;
+  <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>&nbsp;
+  <img src="assets/stack/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;
+  <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
+  <img src="assets/stack/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
+  <img src="assets/stack/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain"/>&nbsp;
+  <img src="assets/stack/llama.svg" width="48" height="48" alt="Llama" title="Llama"/>&nbsp;
+  <img src="assets/stack/claudecode.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/>
 </p>
 
 <br/>
