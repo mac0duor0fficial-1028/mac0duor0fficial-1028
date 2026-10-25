@@ -58,7 +58,7 @@
   <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
   <img src="assets/stack/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
   <img src="assets/stack/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain"/>&nbsp;
-  <img src="assets/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama"/>&nbsp;
+  <img src="assets/stack/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama"/>&nbsp;
   <img src="assets/stack/claudecode.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/>
 </p>
 
