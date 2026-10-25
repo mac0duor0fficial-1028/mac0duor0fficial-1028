@@ -52,6 +52,9 @@
   <img src="assets/stack/hashnode.svg" width="48" height="48" alt="Hashnode" title="Hashnode"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>
 </p>
+<p align="center">
+  <img src="assets/stack-more.svg" height="48" alt="Airbyte, Tableau, Pandas, NumPy, Scikit-learn, LangChain, Llama, Claude Code"/>
+</p>
 
 <br/>
 
