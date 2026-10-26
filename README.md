@@ -21,50 +21,44 @@
 <br/>
 
 <p align="center">
-  <!-- Languages & tooling -->
+  <!-- 1 · Languages, tooling & databases -->
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" title="Bash"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Docker"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>
-  <br/>
-  <!-- Databases & warehouses -->
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>&nbsp;
-  <img src="assets/stack/snowflake.svg" width="48" height="48" alt="Snowflake" title="Snowflake"/>
+  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>
   <br/>
-  <!-- Pipelines, streaming & orchestration -->
+  <!-- 2 · Pipelines, warehouses & cloud -->
   <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>&nbsp;
   <img src="assets/stack/airbyte.svg" width="48" height="48" alt="Airbyte" title="Airbyte"/>&nbsp;
   <img src="assets/stack/airflow.svg" width="48" height="48" alt="Airflow" title="Airflow"/>&nbsp;
   <img src="assets/stack/dbt.svg" width="48" height="48" alt="dbt" title="dbt"/>&nbsp;
   <img src="assets/stack/spark.svg" width="48" height="48" alt="Spark" title="Spark"/>&nbsp;
-  <img src="assets/stack/databricks.svg" width="48" height="48" alt="Databricks" title="Databricks"/>
-  <br/>
-  <!-- Cloud -->
+  <img src="assets/stack/databricks.svg" width="48" height="48" alt="Databricks" title="Databricks"/>&nbsp;
+  <img src="assets/stack/snowflake.svg" width="48" height="48" alt="Snowflake" title="Snowflake"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure" title="Azure"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud" title="Google Cloud"/>
   <br/>
-  <!-- Data science, ML & AI -->
+  <!-- 3 · Data science, ML, AI & APIs -->
   <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
   <img src="assets/stack/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;
   <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
   <img src="assets/stack/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
   <img src="assets/stack/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain"/>&nbsp;
   <img src="assets/stack/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama"/>&nbsp;
-  <img src="assets/stack/claudecode.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/>
-  <br/>
-  <!-- APIs, BI & dashboards -->
+  <img src="assets/stack/claudecode.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI"/>&nbsp;
-  <img src="assets/stack/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>&nbsp;
+  <img src="assets/stack/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>
+  <br/>
+  <!-- 4 · BI, dashboards, editors & publishing -->
   <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" title="Grafana"/>&nbsp;
   <img src="assets/stack/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI"/>&nbsp;
-  <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>
-  <br/>
-  <!-- Editors & publishing -->
+  <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" title="Notion"/>&nbsp;
