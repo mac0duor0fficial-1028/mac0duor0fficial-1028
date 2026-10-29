@@ -48,6 +48,7 @@
   <!-- 3 · Data science, ML, AI & APIs -->
   <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
   <img src="assets/stack/pandas.svg" width="48" height="48" alt="Pandas" title="Pandas"/>&nbsp;
+  <img src="assets/stack/polars.svg" width="48" height="48" alt="Polars" title="Polars"/>&nbsp;
   <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
   <img src="assets/stack/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
   <img src="assets/stack/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain"/>&nbsp;
