@@ -119,4 +119,6 @@
 
 <br/>
 
-<div align="center"><img src="assets/footer.svg" width="100%" alt="Code. Commit. Repeat. Welcome to my GitHub universe. Thanks for visiting. Have an awesome day!"/></div>
+<div align="center">
+  <a href="mailto:mac0duor0fficial@gmail.com"><img src="assets/footer.svg" width="100%" alt="Code. Commit. Repeat. Welcome to my GitHub universe. Thanks for visiting. Have an awesome day! Got a messy data problem? Let's talk."/></a>
+</div>
