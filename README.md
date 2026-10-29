@@ -34,6 +34,7 @@
   <br/>
   <!-- 2 · Pipelines, warehouses & cloud -->
   <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>&nbsp;
+  <img src="assets/stack/flink.svg" width="48" height="48" alt="Apache Flink" title="Apache Flink"/>&nbsp;
   <img src="assets/stack/airbyte.svg" width="48" height="48" alt="Airbyte" title="Airbyte"/>&nbsp;
   <img src="assets/stack/airflow.svg" width="48" height="48" alt="Airflow" title="Airflow"/>&nbsp;
   <img src="assets/stack/dbt.svg" width="48" height="48" alt="dbt" title="dbt"/>&nbsp;
@@ -60,6 +61,7 @@
   <img src="assets/stack/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI"/>&nbsp;
   <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code"/>&nbsp;
+  <img src="assets/stack/dbeaver.svg" width="48" height="48" alt="DBeaver" title="DBeaver"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=sublime&theme=dark" width="48" height="48" alt="Sublime Text" title="Sublime Text"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" width="48" height="48" alt="Notion" title="Notion"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=devto&theme=dark" width="48" height="48" alt="DEV" title="DEV"/>&nbsp;
