@@ -42,8 +42,8 @@
   <img src="assets/stack/databricks.svg" width="48" height="48" alt="Databricks" title="Databricks"/>&nbsp;
   <img src="assets/stack/snowflake.svg" width="48" height="48" alt="Snowflake" title="Snowflake"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure" title="Azure"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud" title="Google Cloud"/>
+  <img src="assets/stack/minio.svg" width="48" height="48" alt="MinIO" title="MinIO"/>&nbsp;
+  <img src="assets/stack/cloudflare.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>&nbsp;
   <br/>
   <!-- 3 · Data science, ML, AI & APIs -->
   <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
