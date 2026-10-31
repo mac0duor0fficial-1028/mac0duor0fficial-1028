@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
+  <img src="assets/stack/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>
   <br/>
