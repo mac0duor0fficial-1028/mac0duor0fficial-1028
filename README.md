@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
+  <img src="assets/stack/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB"/>&nbsp;
   <img src="assets/stack/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>
@@ -52,6 +53,7 @@
   <img src="assets/stack/polars.svg" width="48" height="48" alt="Polars" title="Polars"/>&nbsp;
   <img src="assets/stack/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy"/>&nbsp;
   <img src="assets/stack/scikitlearn.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
+  <img src="assets/stack/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch"/>&nbsp;
   <img src="assets/stack/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain"/>&nbsp;
   <img src="assets/stack/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama"/>&nbsp;
   <img src="assets/stack/claudecode.svg" width="48" height="48" alt="Claude Code" title="Claude Code"/>&nbsp;
