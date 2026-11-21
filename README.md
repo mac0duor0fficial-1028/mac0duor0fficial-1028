@@ -32,7 +32,8 @@
   <img src="assets/stack/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB"/>&nbsp;
   <img src="assets/stack/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" title="MongoDB"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>
+  <img src="https://skillicons.dev/icons?i=cassandra&theme=dark" width="48" height="48" alt="Cassandra" title="Cassandra"/>&nbsp;
+  <img src="assets/stack/neo4j.svg" width="48" height="48" alt="Neo4j" title="Neo4j"/>&nbsp;
   <br/>
   <!-- 2 · Pipelines, warehouses & cloud -->
   <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" title="Kafka"/>&nbsp;
