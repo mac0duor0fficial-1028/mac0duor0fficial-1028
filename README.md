@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS"/>&nbsp;
   <img src="assets/stack/minio.svg" width="48" height="48" alt="MinIO" title="MinIO"/>&nbsp;
   <img src="assets/stack/cloudflare.svg" width="48" height="48" alt="Cloudflare" title="Cloudflare"/>&nbsp;
+  <img src="assets/stack/terraform.svg" width="48" height="48" alt="Terraform" title="Terraform"/>&nbsp;
   <br/>
   <!-- 3 · Data science, ML, AI & APIs -->
   <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48" height="48" alt="Anaconda" title="Anaconda"/>&nbsp;
