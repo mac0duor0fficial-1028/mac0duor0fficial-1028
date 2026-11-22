@@ -28,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" title="Python"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=r&theme=dark" width="48" height="48" alt="R" title="R"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="assets/stack/supabase.svg" width="48" height="48" alt="Supabase" title="Supabase"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" title="MySQL"/>&nbsp;
   <img src="assets/stack/duckdb.svg" width="48" height="48" alt="DuckDB" title="DuckDB"/>&nbsp;
   <img src="assets/stack/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite"/>&nbsp;
