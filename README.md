@@ -64,6 +64,7 @@
   <img src="assets/stack/streamlit.svg" width="48" height="48" alt="Streamlit" title="Streamlit"/>
   <br/>
   <!-- 4 · BI, dashboards, editors & publishing -->
+  <img src="assets/stack/prometheus.svg" width="48" height="48" alt="Prometheus" title="Prometheus"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" title="Grafana"/>&nbsp;
   <img src="assets/stack/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI"/>&nbsp;
   <img src="assets/stack/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau"/>&nbsp;
